@@ -1,18 +1,23 @@
-# Task 2 - Responsive Web Layout
+# Responsive Web Layout
 
-## Description
+## Project Overview
 
-This project demonstrates a responsive web layout built using HTML5 and CSS3. The layout adapts to different screen sizes using CSS Grid, Flexbox, and Media Queries.
+Responsive Web Layout is a modern frontend project built using semantic HTML5 and CSS3. The project demonstrates responsive design principles through the use of CSS Grid, Flexbox, Media Queries, and a mobile-friendly navigation system.
+
+---
 
 ## Features
 
 * Responsive navigation menu
 * Modern hero section
-* CSS Grid card layout
-* Mobile, tablet, and desktop responsiveness
-* Glassmorphism-inspired UI design
-* Smooth hover effects and transitions
-* Semantic HTML structure
+* CSS Grid-based card layout
+* Mobile, tablet, and desktop optimization
+* Glassmorphism-inspired user interface
+* Smooth hover animations and transitions
+* Semantic HTML5 structure
+* Accessibility-focused design
+
+---
 
 ## Technologies Used
 
@@ -22,18 +27,42 @@ This project demonstrates a responsive web layout built using HTML5 and CSS3. Th
 * Flexbox
 * Media Queries
 
-## Files
+---
 
-* index.html
-* style.css
+## Folder Structure
 
-## Learning Outcomes
+Task-2-Laxmipranathi/
 
-* Creating responsive layouts
-* Using CSS Grid and Flexbox effectively
-* Implementing adaptive navigation
-* Building modern user interfaces
+├── index.html
+
+├── style.css
+
+└── README.md
+
+---
+
+## Accessibility Features
+
+* Semantic HTML elements
+* Responsive typography
+* Keyboard-accessible navigation
+* Clear visual hierarchy
+* Mobile-friendly user experience
+
+---
+
+## Performance Optimizations
+
+* Lightweight CSS architecture
+* Responsive layout system
+* Optimized component structure
+* Minimal resource usage
+* Efficient styling practices
+
+---
 
 ## Author
 
-Laxmipranathi
+Frontend Engineering Internship Project
+
+Built for DecodeLabs Internship Program
