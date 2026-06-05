@@ -1,16 +1,22 @@
-# Task 3 - Interactive Web Elements
+# Interactive Web Elements
 
-## Description
+## Project Overview
 
-This project demonstrates basic JavaScript interactivity by manipulating DOM elements and handling user events.
+Interactive Web Elements is a frontend project developed using HTML5, CSS3, and JavaScript. The project demonstrates DOM manipulation, event handling, dynamic content updates, and theme switching to create an engaging user experience.
+
+---
 
 ## Features
 
-* Dynamic text update using JavaScript
+* Dynamic text content updates
 * Dark mode toggle functionality
-* Event handling with addEventListener()
-* DOM element selection
-* Class manipulation using classList.toggle()
+* JavaScript event handling
+* DOM element manipulation
+* Interactive user interface
+* Responsive layout design
+* Clean and maintainable code structure
+
+---
 
 ## Technologies Used
 
@@ -18,20 +24,43 @@ This project demonstrates basic JavaScript interactivity by manipulating DOM ele
 * CSS3
 * JavaScript (ES6)
 
-## Files
+---
 
-* index.html
-* style.css
-* script.js
+## Folder Structure
 
-## Learning Outcomes
+Task-3-Laxmipranathi/
 
-* Understanding DOM manipulation
-* Working with event listeners
-* Managing application state
-* Implementing theme switching
-* Enhancing user interaction
+├── index.html
+
+├── style.css
+
+├── script.js
+
+└── README.md
+
+---
+
+## JavaScript Concepts Implemented
+
+* DOM Selection
+* Event Listeners
+* State Management
+* Class Manipulation
+* Dynamic Content Updates
+
+---
+
+## Performance Optimizations
+
+* Lightweight JavaScript implementation
+* Efficient DOM manipulation
+* Minimal resource consumption
+* Clean code architecture
+
+---
 
 ## Author
 
-Laxmipranathi
+Frontend Engineering Internship Project
+
+Built for DecodeLabs Internship Program
